@@ -28,7 +28,7 @@ Here are some starting steps:
 
 ## The Modeling Process
 
-1. The train dataset has all of the columns that you will need to generate and refine your models. The test dataset has all of those columns except for the target that you are trying to predict in your Regression model.
+1. You need to retrieve your data from the respective data links on the competitions.
 2. Generate your regression/classification model using the training data. We expect that within this process, you'll be making use of:
     - train-test split
     - cross-validation / grid searching for hyperparameters
@@ -88,7 +88,7 @@ Your local instructor will evaluate your project (for the most part) using the f
 - Have the data been scaled appropriately?
 - Does the student properly split and/or sample the data for validation/training purposes?
 - Does the student utilize feature selection to remove noisy or multi-collinear features?
-- Does the student test and evaluate a variety of models to identify a production algorithm (**AT MINIMUM:** linear regression, lasso, and ridge)?
+- Does the student test and evaluate a variety of models to identify a production algorithm (**TRY AT LEAST:** linear regression, lasso, and ridge, KNN, Logistic Regression, Decision Trees, Ensembles)?
 - Does the student defend their choice of production model relevant to the data at hand and the problem?
 - Does the student explain how the model works and evaluate its performance successes/downfalls?
 
