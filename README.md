@@ -22,9 +22,10 @@ Here are some starting steps:
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. Join the 2 competitions
 3. Start looking for teammates (max 3 in a team, same members for both competitions, use request to merge team to create teams)
-4. Look at tutorials section of each competition to get started. We recommend you start with Regression this week and Classification next week.
+4. Look at tutorials section of each competition to get started. Regression is due next Sunday (1 week) and Classification the Sunday after the next (2 weeks).
 5. Inspect the data.
 6. Read about the evaluation metrics.
+7. Create a new kernel each under the respective competition (data automatically imported) and start collaborating with your team (under sharing setting). Remember to commit often and submit often to iterate on your models.
 
 ## The Modeling Process
 
