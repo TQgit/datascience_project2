@@ -27,6 +27,8 @@ Here are some starting steps:
 6. Read about the evaluation metrics.
 7. Create a new kernel each under the respective competition (data automatically imported) and start collaborating with your team (under sharing setting). Remember to commit often and submit often to iterate on your models.
 
+_NOTE_: At the moment, the new collaborative feature of Kaggle kernels only support commiting versions without the capability to "pull" to your draft. For a smooth collaborative workflow, we recommend a repo on GitHub Enterprise to collaborate with your team through a commit/push/pull/merge flow.
+
 ## The Modeling Process
 
 1. You need to retrieve your data from the respective data links on the competitions.
